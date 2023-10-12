@@ -1,13 +1,18 @@
 {
   "files": {
-    "main.css": "/react-resume/static/css/main.43edda12.css",
-    "main.js": "/react-resume/static/js/main.cadb5fc3.js",
+    "main.css": "/react-resume/static/css/main.8912786c.css",
+    "main.js": "/react-resume/static/js/main.68d5769b.js",
     "static/js/787.7071a73c.chunk.js": "/react-resume/static/js/787.7071a73c.chunk.js",
+    "static/media/Modal3.png": "/react-resume/static/media/Modal3.16edaf25441a197b323c.png",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/react-resume/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/Frame1.jpg": "/react-resume/static/media/Frame1.599133c5de1f8ba209e3.jpg",
     "static/media/fontawesome-webfont.eot": "/react-resume/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
     "static/media/fontawesome-webfont.ttf?v=4.7.0": "/react-resume/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/Modal4.png": "/react-resume/static/media/Modal4.18867cf18baf07114f73.png",
+    "static/media/Modal2.jpg": "/react-resume/static/media/Modal2.5dc7bdfe969f1f13f012.jpg",
+    "static/media/Modal1.jpg": "/react-resume/static/media/Modal1.5795a60686c1b1489c3e.jpg",
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/react-resume/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/Frame61.jpg": "/react-resume/static/media/Frame61.f198a64fa3d10a290870.jpg",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/react-resume/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "static/media/development.png": "/react-resume/static/media/development.eb741e6948f608f27aa2.png",
     "static/media/optimization.png": "/react-resume/static/media/optimization.cf32a54acb348c139044.png",
@@ -20,12 +25,12 @@
     "static/media/php.svg": "/react-resume/static/media/php.5234c18869f6b63d47bd3c2246cdfab4.svg",
     "static/media/python.svg": "/react-resume/static/media/python.bdb997303a239e15e82e222eb1b8848e.svg",
     "static/media/html.svg": "/react-resume/static/media/html.10a58682adde3b5e6f2be37de92758cf.svg",
-    "main.43edda12.css.map": "/react-resume/static/css/main.43edda12.css.map",
-    "main.cadb5fc3.js.map": "/react-resume/static/js/main.cadb5fc3.js.map",
+    "main.8912786c.css.map": "/react-resume/static/css/main.8912786c.css.map",
+    "main.68d5769b.js.map": "/react-resume/static/js/main.68d5769b.js.map",
     "787.7071a73c.chunk.js.map": "/react-resume/static/js/787.7071a73c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.43edda12.css",
-    "static/js/main.cadb5fc3.js"
+    "static/css/main.8912786c.css",
+    "static/js/main.68d5769b.js"
   ]
 }
